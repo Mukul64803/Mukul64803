@@ -8,9 +8,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp"/>
 
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m Proficient in **React JS , Node JS, MongoDB, SQL, DSA**
 
-- 🌱 I’m currently learning **React JS , Node JS, MongoDB, SQL, DSA**
+- 🌱 I'm currently learning **Backend**
 
 - 💬 Ask me about **Front-end**
 
